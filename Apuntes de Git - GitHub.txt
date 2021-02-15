@@ -1,0 +1,3 @@
+clonar una rama solamente:
+
+git clone (link) -b (rama) --single-branch
